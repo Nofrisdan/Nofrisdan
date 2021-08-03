@@ -38,6 +38,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!-- 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Nofrisdan&show_icons=true&theme=radical" alt="Nofrisdan" /> -->
-  
+### My Github Stats 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nofrisdan&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Nofrisdan&layout=compact&theme=nightowl)
