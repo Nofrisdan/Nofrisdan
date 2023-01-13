@@ -39,5 +39,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Nofrisdan&show_icons=true&theme=radical" alt="Nofrisdan" /> -->
 ### My Github Stats 
-![github stats](https://github-readme-stats.vercel.app/api?username=Nofrisdan&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats-beryl.vercel.app/api?username=nofrisdan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Nofrisdan&layout=compact&theme=nightowl)
