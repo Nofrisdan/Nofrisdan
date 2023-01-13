@@ -13,7 +13,7 @@
 <br />
 
 <img src="https://github.com/Nofrisdan/Nofrisdan/blob/main/PORTOFOLIO1.png" alt="Nofrisdan Sitopu">
-
+<img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 hi, i'm [Nofrisdan](https://nofrisdan.cakdunsite.com), a passionate self-taught full stack developer and a freelance software engineer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -21,7 +21,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:nofrisdansitopu22@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-<img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 
 **languages & tools :**  
