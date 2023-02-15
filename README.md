@@ -44,4 +44,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 **Github Stats :**  
-![github stats](https://github-readme-stats-beryl.vercel.app/api?username=nofrisdan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<div align="center"> 
+<a href="https://github.com/Nofrisdan">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nofrisdan&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/Nofrisdan">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nofrisdan&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
