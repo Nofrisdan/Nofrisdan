@@ -1,4 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+[![Github](https://img.shields.io/github/followers/Nofrisdan?label=Follow&style=social)](https://github.com/Nofrisdan)
 
 <a href="https://nofrisdanblog.cakdunsite.com">
   <img align="left" alt="Nofrisdan | Twitter" width="22px" src="blog.svg" />
