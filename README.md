@@ -20,7 +20,7 @@ hi, i'm [Nofrisdan](https://nofrisdan.cakdunsite.com), a passionate self-taught 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-- 💼 any freelance work? do reach, [email](mailto:nofrisdansitopu22@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:nofrisdan.hire@cakdunsite.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
