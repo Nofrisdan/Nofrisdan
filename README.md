@@ -4,10 +4,6 @@
 <a href="https://nofrisdanblog.cakdunsite.com">
   <img align="left" alt="Nofrisdan | Twitter" width="22px" src="blog.svg" />
 </a>
-<a href="https://www.linkedin.com/in/nofrisdan-sitopu-b64b03211/">
-  <img align="left" alt="Nofrisdan LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nofrisdan.Nofrisdan)
 
